@@ -10,7 +10,7 @@ const mapStateToProps = state => {
         campsites: state.campsites,
         promotions: state.promotions,
         partners: state.partners
-    };
+    }; 
 };
 
 function RenderItem(props) {
